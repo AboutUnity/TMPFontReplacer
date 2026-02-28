@@ -1,3 +1,7 @@
+Warning - > This Old Version!
+
+See new version: https://github.com/RimuruDev/TMPFontReplacer
+
 # TMPFontReplacer (TextMeshPro Font Replacer) для Unity
 
 ## Описание
